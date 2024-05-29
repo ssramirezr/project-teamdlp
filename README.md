@@ -17,4 +17,4 @@
 5. Run the program using the following command:
 
 ````python
-python follow_first_functions.py
+python main.py
